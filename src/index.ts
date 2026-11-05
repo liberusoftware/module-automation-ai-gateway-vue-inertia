@@ -1,2 +1,8 @@
-/** Registration metadata for this skeleton; not a domain or API schema. */
-export const moduleDefinition = {id: 'module-boilerplate-vue-inertia', presentation: 'laravel-inertia-vue', status: 'skeleton'} as const;
+/** Skeleton registration metadata; this is not a domain/API contract. */
+export const moduleDefinition = {
+  "id": "module-automation-ai-gateway-vue-inertia",
+  "presentation": "laravel-inertia-vue",
+  "capabilityKey": "liberusoftware/automation-ai-gateway",
+  "status": "skeleton",
+  "documentation": "https://github.com/liberusoftware/documentation/blob/main/projects/automation/vue/ai-gateway.md"
+} as const;

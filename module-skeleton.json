@@ -1,0 +1,15 @@
+{
+  "repository": "module-automation-ai-gateway-vue-inertia",
+  "capabilityKey": "liberusoftware/automation-ai-gateway",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-automation-ai-gateway-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/automation/nextjs/ai-gateway.md",
+  "presentationPlan": "projects/automation/vue/ai-gateway.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
